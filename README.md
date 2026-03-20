@@ -1,4 +1,6 @@
-<img width="589" height="355" alt="image" src="https://github.com/user-attachments/assets/f5f5d9f3-f347-43d1-b34a-de324ca72bc1" /># EXP-6---Matrix-multiplication-using-cuBLAS-in-CUDA-C-
+EXP 6
+## SANJAYKUMAR B
+## 212224230242
 
 # Objective
 To implement matrix multiplication on the GPU using the cuBLAS library in CUDA C, and analyze the performance improvement over CPU-based matrix multiplication by leveraging GPU acceleration.
